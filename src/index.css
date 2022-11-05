@@ -1,0 +1,15 @@
+a{
+    color: white;
+    margin: 1rem .5rem;
+    text-decoration: none;
+    cursor: pointer;
+}
+a:hover{
+    color: blue;
+}
+li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
